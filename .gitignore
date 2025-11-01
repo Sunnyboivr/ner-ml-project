@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Model files (too large for GitHub)
+backend/custom_ner_model/
+backend/*.json
+*.bin
+*.pkl
+
+# Dataset files (too large)
+backend/conll2003_training_data.json
+backend/wnut17_training_data.json
+backend/ontonotes_training_data.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Build files
+frontend/dist/
+frontend/build/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
