@@ -14,8 +14,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# load the trained model
-nlp = spacy.load("./custom_ner_model")
+# load the trained model (or use default English model if custom model doesn't exist)
+try:
+    nlp = spacy.load("./custom_ner_model")
+except OSError:
+    nlp = spacy.load("en_core_web_sm")
 
 # Define what data we expect to receive
 class TextInput(BaseModel):
